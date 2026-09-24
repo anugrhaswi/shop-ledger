@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧾 Shop Accounting
+# 🧾 Shop Ledger
 
 **Simple, self-hosted bookkeeping for small shops and freelancers.**
 
@@ -20,7 +20,7 @@ Track money across accounts, debts, receivables, and daily profit — all on you
 
 A shop owner juggles a cash drawer, a bank account, a wallet, money lent to regulars, and money owed to suppliers. Spreadsheets get messy, and online accounting tools mean your financial data lives in someone else's cloud.
 
-**Shop Accounting is the middle ground:** a single-page dashboard on your own computer that answers the questions you actually ask every day.
+**Shop Ledger is the middle ground:** a single-page dashboard on your own computer that answers the questions you actually ask every day.
 
 ## What it solves
 
